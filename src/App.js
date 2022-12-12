@@ -1,10 +1,8 @@
-import Greetings from './Greetings/Greetings.js';
-
-
+import SimpleForm from './SimpleForm/SimpleForm.js';
 
 const App = () => (
   <div>
-    <Greetings firstName="John" lastName="Smith" />
+    <SimpleForm />
   </div>
 )
 
