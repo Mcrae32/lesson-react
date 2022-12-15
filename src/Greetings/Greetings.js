@@ -1,10 +1,5 @@
 import React from 'react'
 
-// const Greetings = (props) => (
-// 	<div>Hey you! {props.firstName} {props.lastName}!</div>
-// )
-
-
 class Greetings extends React.Component {
 	render() {
 		return (
